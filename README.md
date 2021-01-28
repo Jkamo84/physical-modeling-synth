@@ -8,6 +8,8 @@ Theversion used for this proyect was Python 3.8.5
 
 To run this program, you can create a virtual environment and install the dependencies noted on requirements.txt
 
+```python
   pip install -r requirements.txt
-  
+```
+
 The program as is, already has some implementations ready to run to test the functionalities, but some configurations can be made to customize what the user wants.
